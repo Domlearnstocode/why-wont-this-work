@@ -1,0 +1,6 @@
+let messageMixer = require("./MessageMixer")
+
+
+
+console.log(messageMixer.countCharacter("poopoo", "o"))
+
